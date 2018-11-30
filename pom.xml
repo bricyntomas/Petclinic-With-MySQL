@@ -465,7 +465,11 @@
                 <db.script>mysql</db.script>
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
+<<<<<<< HEAD
                 <jdbc.url>jdbc:mysql://192.168.9.228:3306/petclinic?useUnicode=true</jdbc.url>
+=======
+                <jdbc.url>jdbc:mysql://192.168.9.218:3306/petclinic?useUnicode=true</jdbc.url>
+>>>>>>> parent of 3823dd6... test container war
                 <jdbc.username>root</jdbc.username>
                 <jdbc.password>egurkha@123</jdbc.password>
             </properties>
