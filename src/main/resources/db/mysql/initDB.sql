@@ -4,15 +4,7 @@ ALTER DATABASE petclinic
   DEFAULT CHARACTER SET utf8
   DEFAULT COLLATE utf8_general_ci;
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-#GRANT ALL PRIVILEGES ON petclinic.* TO petclinic@'%';
-=======
 #GRANT ALL PRIVILEGES ON petclinic.* TO pc@localhost IDENTIFIED BY 'pc';
->>>>>>> parent of 3823dd6... test container war
-=======
-#GRANT ALL PRIVILEGES ON petclinic.* TO pc@localhost IDENTIFIED BY 'pc';
->>>>>>> parent of 3823dd6... test container war
 
 USE petclinic;
 
