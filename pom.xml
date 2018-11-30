@@ -465,9 +465,9 @@
                 <db.script>mysql</db.script>
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
-                <jdbc.url>jdbc:mysql://192.168.9.218:3306/petclinic?useUnicode=true</jdbc.url>
-                <jdbc.username>root</jdbc.username>
-                <jdbc.password>egurkha@123</jdbc.password>
+                <jdbc.url>jdbc:mysql://192.168.9.227:32270/petclinic?useUnicode=true</jdbc.url>
+                <jdbc.username>petclinic</jdbc.username>
+                <jdbc.password>petclinic</jdbc.password>
             </properties>
             <dependencies>
                 <dependency>
